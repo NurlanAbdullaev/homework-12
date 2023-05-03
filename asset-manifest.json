@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/homework-12/static/css/main.f9d5ddda.css",
+    "main.js": "/homework-12/static/js/main.61400048.js",
+    "static/media/pexels-alexy-almond-3756523 1.png": "/homework-12/static/media/pexels-alexy-almond-3756523 1.4afd9bdd34d90c035d97.png",
+    "static/media/Vector.svg": "/homework-12/static/media/Vector.2fef32082e9401484e897e109e396903.svg",
+    "index.html": "/homework-12/index.html",
+    "main.f9d5ddda.css.map": "/homework-12/static/css/main.f9d5ddda.css.map",
+    "main.61400048.js.map": "/homework-12/static/js/main.61400048.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9d5ddda.css",
+    "static/js/main.61400048.js"
+  ]
+}
